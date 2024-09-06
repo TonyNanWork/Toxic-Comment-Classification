@@ -14,5 +14,5 @@ to train the models the respective toxic_comment_(MODEL) folder needs to exist w
 
 ## Comparisons
 
-![alt text](https://github.com/[TonyNanWork]/[Toxic-Comment-Classification]/blob/[main]/roc_curve.png?raw=true)
+![alt text](https://github.com/TonyNanWork/Toxic-Comment-Classification/blob/main/roc_curve.png?raw=true)
 
