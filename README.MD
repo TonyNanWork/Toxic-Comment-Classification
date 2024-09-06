@@ -1,4 +1,6 @@
-# RUNNING THE PROJECT
+# Toixc Comment Classification
+
+## RUNNING THE PROJECT
 Each model is implemented and evaluted in different files
 
 interation3.py is the distilbert
@@ -9,3 +11,8 @@ to run these model download the folders from here and paste into the root direct
 https://drive.google.com/drive/u/1/folders/1I0Z9mPsoe8aToft5r7tWetbY8_JPjpB2
 
 to train the models the respective toxic_comment_(MODEL) folder needs to exist with nothing inside
+
+## Comparisons
+
+![alt text](https://github.com/[TonyNanWork]/[Toxic-Comment-Classification]/blob/[main]/roc_curve.png?raw=true)
+
